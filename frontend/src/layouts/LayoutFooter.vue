@@ -59,7 +59,7 @@
       <p
         class="text-center text-neutral-300 font-normal text-base leading-[150%] pt-4"
       >
-        © 2025 LiveFit+. All rights reserved.
+        © 2025 LiveFit. All rights reserved.
       </p>
     </div>
   </footer>
